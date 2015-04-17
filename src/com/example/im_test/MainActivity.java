@@ -13,6 +13,9 @@ public class MainActivity extends ActionBarActivity {
 		setContentView(R.layout.activity_main);
 		System.out.println("ddddddddddddddddd");
 		System.out.println("ddddddddddddddddd2");
+		System.out.println("ddddddddddddddddd2");
+		System.out.println("ddddddddddddddddd2");
+		System.out.println("ddddddddddddddddd2");
 	}
 
 	@Override
